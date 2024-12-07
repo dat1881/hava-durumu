@@ -24,8 +24,7 @@ npm install discord.js node-fetch
 
 Proje klasörünüzde aşağıdaki komutu çalıştırarak botu başlatın:
 ```
-
-node bot.js & node .
+node bot.js
 
 ```
 
