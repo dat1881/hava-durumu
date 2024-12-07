@@ -3,7 +3,7 @@
 ``
 # Discord Hava Durumu Botu
 
-Bu proje, Dat.1881 tarafından kullanıcılara sunulmuştur hava durumu bilgilerini gönderen bir Discord botudur. 
+Bu proje, Dat.1881 tarafından yapılmıştır hava durumu bilgilerini gönderen bir Discord botudur. 
 
 ## Gerekli Modüller
 
@@ -37,5 +37,6 @@ Discord'da botun bulunduğu bir kanalda aşağıdaki komutu kullanarak hava duru
 
 !havadurumu {şehir} (yazdığında sadece 1 şehiri gösterir)
 !81il (!81il yazdığınızda bütün Türkiye'de bulunan şehirlerin hava durumunu bölgelere ayırarak gösterir.)
+Ve 24 saat'te bir otomatik olarak seçtiğiniz kanala hava durumunu mesaj atar.
 ```
-
+Tek sorun "!81il" komutunda biraz yavaş çalışma vardır fakat hiçbir sorun yoktu apiden kaynaklıdır durum.
