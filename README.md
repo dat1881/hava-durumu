@@ -24,13 +24,18 @@ npm install discord.js node-fetch
 ### Adım 2: Botun Çalıştırılması
 
 Proje klasörünüzde aşağıdaki komutu çalıştırarak botu başlatın:
+```
 
 node bot.js & node .
+
+```
 
 ## Kullanım
 
 Discord'da botun bulunduğu bir kanalda aşağıdaki komutu kullanarak hava durumu bildirimlerini ayarlayabilirsiniz:
+```
 
 !havadurumu {şehir} (yazdığında sadece 1 şehiri gösterir)
 !81il (!81il yazdığınızda bütün Türkiye'de bulunan şehirlerin hava durumunu bölgelere ayırarak gösterir.)
+```
 
