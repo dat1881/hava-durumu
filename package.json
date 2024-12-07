@@ -1,0 +1,17 @@
+{
+  "name": "havadurumu",
+  "version": "1.0.0",
+  "description": "Bot ile hava durumu Öğrenme",
+  "main": "bot.js",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "author": "dat",
+  "license": "ISC"
+}
