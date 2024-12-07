@@ -16,7 +16,6 @@ Bu proje, Dat.1881 tarafından yapılmıştır hava durumu bilgilerini gönderen
 Proje klasörünüzde gerekli modülleri yüklemek için aşağıdaki komutları çalıştırın:
 
 ```
-npm init -y
 npm i
 npm install discord.js node-fetch
 ```
